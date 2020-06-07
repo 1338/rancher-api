@@ -1,10 +1,11 @@
 # rancher-api
 rancher API v3 for php
 
-I found easy implementations for rancher API v3 lacking, so here this is.
+I found easy implementations for Rancher API v3 lacking, so here this is.
 
 # Currrent state
 There still is a lot of API to implement, pulls are welcome.
+Given the correct config you can import projects from Rancher.
 
 ## Example importing rancher "projects"
 RancherConfig contains:
