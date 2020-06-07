@@ -62,7 +62,7 @@ class Projects {
         $containers = $this->client->request('GET', $this->endpoint, [])->data;
         foreach($containers as $key=>$container)
         {
-            if($container->type != "Project")
+            if($container->type != "project")
                 continue;
 
             array_push($retn, $this->format($container, new Project()));
