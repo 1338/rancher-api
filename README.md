@@ -6,7 +6,8 @@ I found easy implementations for rancher API v3 lacking, so here this is.
 # Currrent state
 There still is a lot of API to implement, pulls are welcome.
 
-## Example importing rancher "projects", where RancherConfig contains:
+## Example importing rancher "projects"
+RancherConfig contains:
 - name
 - host
 - token
