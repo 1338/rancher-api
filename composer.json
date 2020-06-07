@@ -1,5 +1,5 @@
 {
-    "name": "Rootshell/rancher-api",
+    "name": "rootshell/rancher-api",
     "description": "PHP rancher API",
     "type": "library",
     "require": {
